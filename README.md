@@ -2,11 +2,12 @@
 
 This is a project with Github api
  
-<p float="left">
+ 
 ![image](https://user-images.githubusercontent.com/70349830/114603636-5ae19180-9c6e-11eb-9f4c-c1fcbb0512ae.png)
+
 ![image](https://user-images.githubusercontent.com/70349830/114603647-5e751880-9c6e-11eb-9622-462b9807a446.png)
 
-</p>
+
 
 
 <h3>Technology used:</h3>
