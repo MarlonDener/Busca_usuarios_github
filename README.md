@@ -2,10 +2,10 @@
 
 This is a project with Github api
    
- Searching user: 
+ <p>Searching user: </p>
 ![image](https://user-images.githubusercontent.com/70349830/114604159-f83cc580-9c6e-11eb-89c7-e4dc6ef07148.png)    
 
-Find user:
+<p>Find user:</p>
 ![image](https://user-images.githubusercontent.com/70349830/114604047-dba08d80-9c6e-11eb-8230-9d09e35f396e.png)
 
 
