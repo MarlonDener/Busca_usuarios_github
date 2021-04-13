@@ -3,9 +3,9 @@
 This is a project with Github api
  
 <p float="left">
-  <img src="/img1.png![image](https://user-images.githubusercontent.com/70349830/114603456-1fdf5e00-9c6e-11eb-9776-4222015228e6.png)
+  <img src="![image](https://user-images.githubusercontent.com/70349830/114603456-1fdf5e00-9c6e-11eb-9776-4222015228e6.png)
 " width="100" />
-  <img src="/img2.png![image](https://user-images.githubusercontent.com/70349830/114603474-24a41200-9c6e-11eb-8f5c-c70ac5667dad.png)
+  <img src="![image](https://user-images.githubusercontent.com/70349830/114603474-24a41200-9c6e-11eb-8f5c-c70ac5667dad.png)
 " width="100" /> 
 </p>
 
