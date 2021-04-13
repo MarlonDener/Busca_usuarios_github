@@ -27,4 +27,4 @@ This is a project with Github api
 5) Finally open the project on your localhost
 
 
-Thank you so much!
+                                                                    Thank you so much!
