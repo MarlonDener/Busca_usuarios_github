@@ -2,7 +2,7 @@
 
 This is a project with Github api
  
-![alt-text-1](![image](https://user-images.githubusercontent.com/70349830/114602959-8e6fec00-9c6d-11eb-9215-13b5c1b3dbe6.png)) ![alt-text-2](![image](https://user-images.githubusercontent.com/70349830/114602997-992a8100-9c6d-11eb-886a-73f179081c58.png))
+![alt-text-1](![image](https://user-images.githubusercontent.com/70349830/114602959-8e6fec00-9c6d-11eb-9215-13b5c1b3dbe6.png) ![alt-text-2](![image](https://user-images.githubusercontent.com/70349830/114602997-992a8100-9c6d-11eb-886a-73f179081c58.png)
 
 
 
