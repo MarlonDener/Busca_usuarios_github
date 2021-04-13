@@ -2,8 +2,12 @@
 
 This is a project with Github api
  
-![alt-text-1](![image](https://user-images.githubusercontent.com/70349830/114602959-8e6fec00-9c6d-11eb-9215-13b5c1b3dbe6.png) ![alt-text-2](![image](https://user-images.githubusercontent.com/70349830/114602997-992a8100-9c6d-11eb-886a-73f179081c58.png)
-
+<p float="left">
+  <img src="/img1.png![image](https://user-images.githubusercontent.com/70349830/114603456-1fdf5e00-9c6e-11eb-9776-4222015228e6.png)
+" width="100" />
+  <img src="/img2.png![image](https://user-images.githubusercontent.com/70349830/114603474-24a41200-9c6e-11eb-8f5c-c70ac5667dad.png)
+" width="100" /> 
+</p>
 
 
 <h3>Technology used:</h3>
