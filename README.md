@@ -1,11 +1,11 @@
 <h1>Search on github </h1>
 
 This is a project with Github api
-   
- <p>Searching user: </p>
+  
+<h4>Searching user:</h4> 
 ![image](https://user-images.githubusercontent.com/70349830/114604159-f83cc580-9c6e-11eb-89c7-e4dc6ef07148.png)    
 
-<p>Find user:</p>
+Find user:
 ![image](https://user-images.githubusercontent.com/70349830/114604047-dba08d80-9c6e-11eb-8230-9d09e35f396e.png)
 
 
