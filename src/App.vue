@@ -1,14 +1,18 @@
 <template>
   <div id="app">
+    <Header />
+      <div id="container">
     <!-- <AreaBusca /> -->
         <router-view></router-view>
+
+      </div>
   </div>
 </template>
 
 <script>
-//import AreaBusca from './components/AreaBusca.vue'
+import Header from './components/Header.vue'
 export default {
-  //components: {AreaBusca}
+  components: {Header}
 
 }
 </script>
@@ -20,11 +24,11 @@ export default {
   box-sizing: border-box;
   font-family: 'Nunito', sans-serif;
 }
-#app{
+#container{
   width: 100%;
-  height: 100vh;
+  height: 88vh;
   background-color: #0093E9;
-  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  background-image: linear-gradient(160deg, #0d011d 0%, #060c0b 100%);
   display: flex;
   justify-content: center;
   align-items: center;
