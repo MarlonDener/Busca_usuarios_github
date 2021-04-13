@@ -1,13 +1,12 @@
 <h1>Search on github </h1>
 
 This is a project with Github api
- 
- 
-![image](https://user-images.githubusercontent.com/70349830/114603636-5ae19180-9c6e-11eb-9f4c-c1fcbb0512ae.png)
+   
+ Searching user: 
+![image](https://user-images.githubusercontent.com/70349830/114604159-f83cc580-9c6e-11eb-89c7-e4dc6ef07148.png)    
 
-![image](https://user-images.githubusercontent.com/70349830/114603647-5e751880-9c6e-11eb-9622-462b9807a446.png)
-
-
+Find user:
+![image](https://user-images.githubusercontent.com/70349830/114604047-dba08d80-9c6e-11eb-8230-9d09e35f396e.png)
 
 
 <h3>Technology used:</h3>
@@ -33,6 +32,7 @@ This is a project with Github api
 3) run CMD - npm install
 4) run CMD - npm run serve
 5) Finally open the project on your localhost
+
 
 
                                                                   Thank you so much!
