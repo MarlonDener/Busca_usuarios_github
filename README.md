@@ -35,5 +35,4 @@ This is a project with Github api
 4) run CMD - npm run serve
 5) Finally open the project on your localhost
 
-
  Thank you so much!
